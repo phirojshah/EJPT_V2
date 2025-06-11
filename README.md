@@ -1,5 +1,5 @@
 ---
-description: eLearnSecurity Junior Penetration Tester (eJPT) v2 Notes
+description: eLearnSecurity Junior Penetration Tester (eJPT) v2 Notes.
 ---
 
 # 📝 eJPTv2-Notes
